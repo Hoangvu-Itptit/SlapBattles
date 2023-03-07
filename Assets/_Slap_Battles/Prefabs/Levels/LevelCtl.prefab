@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8824206924378799470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8824206924378799468}
+  - component: {fileID: 5616598167400398031}
+  m_Layer: 0
+  m_Name: LevelCtl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8824206924378799468
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8824206924378799470}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.128, y: 1.237, z: -4.1900005}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5616598167400398031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8824206924378799470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8980426df51294d4593df007cee0fa48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  listEnemy: {fileID: 0}
+  bot: {fileID: 4916741313238584812, guid: 780aaf7f3466a784daf1620014033bc7, type: 3}
+  botTranform: {fileID: 0}
+  playerTransform: {fileID: 0}
+  pac: {fileID: 0}
+  chooChoo: {fileID: 0}
+  haveTeleport: 1
+  setInstanTrap: 0
+  listActiveEnemy: []
+  listUnactiveEnemy: []
+  listTrapItems:
+  - {fileID: 7073088145195546580, guid: 82ecf2b69bab6fb46a0088b6d0962407, type: 3}
+  - {fileID: 7832796535849092495, guid: 39d8cd56ad530334bbde3beafcd8c4e6, type: 3}
+  - {fileID: 1572787038336795934, guid: eca1afe149506c2429f0b840e2256fb4, type: 3}
+  - {fileID: 4895978878496203612, guid: 6a8573aa4358e6948bc9e56117fe8fe1, type: 3}
+  - {fileID: 7784783613908741772, guid: c716f7c02154ba54ba2765d78dd12aff, type: 3}
+  listActiveTrapItems: []
+  listUnActiveTrapItems: []
+  listActiveItemsTrapused: []
+  listUnactiveItemsTrapused: []
+  listBoostItems:
+  - {fileID: 1131528515444721013, guid: 1205d588a57126249b467502c58d1e57, type: 3}
+  - {fileID: 1131528515444721013, guid: 2793cb279e38ecb4788bc5faa4291494, type: 3}
+  - {fileID: 1131528515444721013, guid: 1f718d0824939314b80c393ee4d41cae, type: 3}
+  testTrap: 0

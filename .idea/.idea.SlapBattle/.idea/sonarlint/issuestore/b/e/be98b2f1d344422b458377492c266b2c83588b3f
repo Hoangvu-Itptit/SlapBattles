@@ -1,0 +1,43 @@
+
+Mcsharpsquid:S1125£"*Remove the unnecessary Boolean literal(s).(×…Ñşÿÿÿÿ
+Hcsharpsquid:S1125©"*Remove the unnecessary Boolean literal(s).(¼Ç½Ÿ
+Mcsharpsquid:S1125"*Remove the unnecessary Boolean literal(s).(×…Ñşÿÿÿÿ
+Hcsharpsquid:S1125“"*Remove the unnecessary Boolean literal(s).(¼Ç½Ÿ
+Hcsharpsquid:S1125ä"*Remove the unnecessary Boolean literal(s).(íı‘…
+Šcsharpsquid:S101
+"nRename class 'TMP_TextInfoDebugTool' to match pascal case naming rules, consider using 'TmpTextInfoDebugTool'.(…¶¤›
+ocsharpsquid:S3776d"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(—¹ÏÍ
+pcsharpsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÔÆ£•
+pcsharpsquid:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÆÏüĞ
+Zcsharpsquid:S1854“"<Remove this useless assignment to local variable 'topRight'.(­Ìõå
+bcsharpsquid:S1854’"?Remove this useless assignment to local variable 'bottomRight'.(×È±ãıÿÿÿÿ
+Zcsharpsquid:S1854ı"<Remove this useless assignment to local variable 'topRight'.(­Ìõå
+bcsharpsquid:S1854ü"?Remove this useless assignment to local variable 'bottomRight'.(×È±ãıÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(à¼ì¹
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¡á°è
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ä€ª’øÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¿î¬ƒ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¨¨¬Ìùÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(˜Æñ
+`csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(İÊ£	
+Vcsharpsquid:S4136À"8All 'DrawRectangle' method overloads should be adjacent.(«»¨£
+[csharpsquid:S4136Ê">All 'DrawDottedRectangle' method overloads should be adjacent.(·ß1
+Icsharpsquid:S1172Ó"+Remove this unused method parameter 'size'.( ÈØÒ
+Qcsharpsquid:S1481}"/Remove the unused local variable 'bottomRight'.(¬¢ßûùÿÿÿÿ
+Acsharpsquid:S125Ñ"Remove this commented out code.(ãæ¾Çøÿÿÿÿ
+Acsharpsquid:S125Û"Remove this commented out code.(ÜÇÆşÿÿÿÿ
+<csharpsquid:S125à"Remove this commented out code.(à¿®
+<csharpsquid:S125å"Remove this commented out code.(¼Õ’
+Acsharpsquid:S125í"Remove this commented out code.(¡„‰şÿÿÿÿ
+<csharpsquid:S125ó"Remove this commented out code.(¦ö‚
+Acsharpsquid:S125°"Remove this commented out code.(äÁ’Íúÿÿÿÿ
+Acsharpsquid:S125¿"Remove this commented out code.(Ìº¥‹şÿÿÿÿ
+Acsharpsquid:S125Ğ"Remove this commented out code.(Ìº¥‹şÿÿÿÿ
+Acsharpsquid:S125Ş"Remove this commented out code.(Ìº¥‹şÿÿÿÿ
+<csharpsquid:S125å"Remove this commented out code.(‰íôî
+Acsharpsquid:S125š"Remove this commented out code.(äÁ’Íúÿÿÿÿ
+Acsharpsquid:S125©"Remove this commented out code.(Ìº¥‹şÿÿÿÿ
+Acsharpsquid:S125º"Remove this commented out code.(Ìº¥‹şÿÿÿÿ
+Acsharpsquid:S125Ë"Remove this commented out code.(Ìº¥‹şÿÿÿÿ
+<csharpsquid:S125Ï"Remove this commented out code.(‰íôî
+Qcsharpsquid:S1135"4Complete the task associated to this 'TODO' comment.(üìš¸

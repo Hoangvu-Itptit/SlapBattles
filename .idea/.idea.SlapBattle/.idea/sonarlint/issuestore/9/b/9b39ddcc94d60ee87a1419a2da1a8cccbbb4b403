@@ -1,0 +1,14 @@
+
+pcsharpsquid:S3776Τ"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(ΟΎ®Ο
+ucsharpsquid:S3776ί"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Θ­°Φϋÿÿÿÿ
+ucsharpsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(―οηόÿÿÿÿ
+gcsharpsquid:S3358™"DExtract this nested ternary operation into an independent statement.(ς±£¥ώÿÿÿÿ
+{csharpsquid:S3973ν"XUse curly braces or indentation to denote the code conditionally executed by this 'else'(„¶αμψÿÿÿÿ
+{csharpsquid:S3973ό"XUse curly braces or indentation to denote the code conditionally executed by this 'else'(„¶αμψÿÿÿÿ
+{csharpsquid:S3973§"XUse curly braces or indentation to denote the code conditionally executed by this 'else'(„¶αμψÿÿÿÿ
+{csharpsquid:S3973®"XUse curly braces or indentation to denote the code conditionally executed by this 'else'(„¶αμψÿÿÿÿ
+{csharpsquid:S3973Έ"XUse curly braces or indentation to denote the code conditionally executed by this 'else'(„¶αμψÿÿÿÿ
+{csharpsquid:S3973Ώ"XUse curly braces or indentation to denote the code conditionally executed by this 'else'(„¶αμψÿÿÿÿ
+Wcsharpsquid:S112›"5'System.Exception' should not be thrown by user code.(Ϋσϋÿÿÿÿ
+Dcsharpsquid:S1481€"'Remove the unused local variable 'min'.(Ό—§w
+Ecsharpsquid:S1481"'Remove the unused local variable 'max'.(ΜπΊ

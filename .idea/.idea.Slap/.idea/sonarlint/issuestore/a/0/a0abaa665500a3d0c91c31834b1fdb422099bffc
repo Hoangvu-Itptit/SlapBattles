@@ -1,0 +1,8 @@
+
+?csharpsquid:S3903""Move 'Win' into a named namespace.(–÷ô»
+acsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(¼Àø”
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¨Ìî„ÿÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ğ˜ã
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(áÕÈ­üÿÿÿÿ
+vcsharpsquid:S1450"TRemove the field 'timer' and declare it as a local variable in the relevant methods.(ùâËıÿÿÿÿ

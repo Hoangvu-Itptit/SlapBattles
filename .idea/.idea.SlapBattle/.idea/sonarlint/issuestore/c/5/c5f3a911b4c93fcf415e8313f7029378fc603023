@@ -1,0 +1,10 @@
+
+ucsharpsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ùÏ®·ıÿÿÿÿ
+Mcsharpsquid:S3903"+Move 'SelectWeapon' into a named namespace.(Öâ“ûÿÿÿÿ
+acsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(ô¡Æô
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ğ¥ãŒøÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Õ¦äıÿÿÿÿ
+<csharpsquid:S125÷"Remove this commented out code.(ıÍ…ÿ
+Ycsharpsquid:S1135’"4Complete the task associated to this 'TODO' comment.(”¤á¼8‡ÓĞİà0
+Ycsharpsquid:S1135¤"4Complete the task associated to this 'TODO' comment.(”¤á¼8æÒİà0

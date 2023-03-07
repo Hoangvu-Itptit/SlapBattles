@@ -1,0 +1,24 @@
+
+Lcsharpsquid:S1125e"*Remove the unnecessary Boolean literal(s).(Œ£äøÿÿÿÿ
+Gcsharpsquid:S1125q"*Remove the unnecessary Boolean literal(s).(“Ì”÷
+tcsharpsquid:S3776~"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(œÀÏ­ÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ü¶û¯úÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ç¶‚¨
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Í£ê½
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¹úŒ‚ùÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ùı…Ëúÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(‘ö¥ò
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(›Ëßüÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ã —Çøÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Í•¿™ÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÉÑ¬ëúÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(®¥Àı
+acsharpsquid:S1104!"DMake this field 'private' and encapsulate it in a 'public' property.(“ÄÈ‡
+acsharpsquid:S1104""DMake this field 'private' and encapsulate it in a 'public' property.(¼Ü¼£
+fcsharpsquid:S1104$"DMake this field 'private' and encapsulate it in a 'public' property.(õ‰ÀĞşÿÿÿÿ
+wcsharpsquid:S1450("URemove the field 'mouseX' and declare it as a local variable in the relevant methods.(ÃÔ¾úÿÿÿÿ
+wcsharpsquid:S1450)"URemove the field 'mouseY' and declare it as a local variable in the relevant methods.(Ğè•Ùıÿÿÿÿ
+vcsharpsquid:S1450*"YRemove the field 'moveVector' and declare it as a local variable in the relevant methods.(«…°İ
+{csharpsquid:S1450+"YRemove the field 'mouseWheel' and declare it as a local variable in the relevant methods.(œ˜ü«ıÿÿÿÿ
+:csharpsquid:S125."Remove this commented out code.(ô¹ÈX
+@csharpsquid:S125i"Remove this commented out code.(®æÊÍıÿÿÿÿ

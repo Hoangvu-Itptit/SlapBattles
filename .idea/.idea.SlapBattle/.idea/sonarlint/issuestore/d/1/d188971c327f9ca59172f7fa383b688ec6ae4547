@@ -1,0 +1,8 @@
+
+zcsharpsquid:S101"YRename class 'findingTMP' to match pascal case naming rules, consider using 'FindingTmp'.(ñ«­ûÿÿÿÿ
+Kcsharpsquid:S3903")Move 'findingTMP' into a named namespace.(ñ«­ûÿÿÿÿ
+`csharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(îÕÒe
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¯Î¤‡ùÿÿÿÿ
+Tcsharpsquid:S2190"2Add a way to break out of this method's recursion.(ãÏ’áıÿÿÿÿ
+>csharpsquid:S1643"Use a StringBuilder instead.(òß°êıÿÿÿÿ

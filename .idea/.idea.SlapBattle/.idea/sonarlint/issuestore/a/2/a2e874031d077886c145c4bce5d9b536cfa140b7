@@ -1,0 +1,11 @@
+
+Pcsharpsquid:S3903".Move 'ButtonAttribute' into a named namespace.(œâÂƒüÿÿÿÿ
+Mcsharpsquid:S3903"0Move 'ButtonEffectLogic' into a named namespace.(ë‚ Â
+Xcsharpsquid:S3903]"6Move 'ButtonEffectLogicEditor' into a named namespace.(Å—ƒ¹ûÿÿÿÿ
+5csharpsquid:S2933"Make 'Delay' 'readonly'.(”Åûî
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(½ëþçÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ö“œåøÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Àþÿ•ÿÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Í«ï£ÿÿÿÿÿ
+ecsharpsquid:S1185!"CRemove this method 'OnPointerClick' to simply inherit its behavior.(Ëë›åÿÿÿÿÿ
+ecsharpsquid:S1185d"CRemove this method 'OnInspectorGUI' to simply inherit its behavior.(Æ¡Ü™úÿÿÿÿ

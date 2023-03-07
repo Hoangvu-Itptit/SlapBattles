@@ -1,0 +1,6 @@
+
+tcsharpsquid:S3776M"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(é¼”²þÿÿÿÿ
+Dcsharpsquid:S3903""Move 'Bot' into a named namespace.(žÔÚ§ûÿÿÿÿ
+fcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(¯ê€’úÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(•´ìöúÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¢þ‡Æ

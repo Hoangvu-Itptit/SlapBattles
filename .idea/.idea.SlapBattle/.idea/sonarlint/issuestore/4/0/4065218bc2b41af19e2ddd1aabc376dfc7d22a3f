@@ -1,0 +1,68 @@
+
+pcsharpsquid:S101"ORename class 'CONST' to match pascal case naming rules, consider using 'Const'.(®Öéïüÿÿÿÿ
+qcsharpsquid:S1118"OAdd a 'protected' constructor or the 'static' keyword to the class declaration.(®Öéïüÿÿÿÿ
+Fcsharpsquid:S3903"$Move 'CONST' into a named namespace.(®Öéïüÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Àµä
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¤¹ïİ
+`csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(é³¥<
+`csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¤ç{
+acsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(ØŒ½¢
+fcsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(¯ŞÚûÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¤ÍøÓ
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(å«íèüÿÿÿÿ8ö„·ƒá0
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÆÊèÙøÿÿÿÿ8¹ØÆ‰á0
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(©ÉëÅ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(áİş¹şÿÿÿÿ
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(³–ë‹ûÿÿÿÿ8±„ª£Ù0
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(àíşéøÿÿÿÿ8ˆ¦¼¤Ù0
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÎÄ¾8ÂÃ¾¤Ù0
+mcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÜÔ¦ªşÿÿÿÿ8å¾¤Ù0
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(§ùş
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.( â¬…ıÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ö¿Ê¹
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ë›éáùÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(äÑ¤˜şÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(µ¼––şÿÿÿÿ
+fcsharpsquid:S1104$"DMake this field 'private' and encapsulate it in a 'public' property.(æøú£ıÿÿÿÿ
+hcsharpsquid:S1104%"DMake this field 'private' and encapsulate it in a 'public' property.(ƒùÄ8ÁÅ’¨Ø0
+acsharpsquid:S1104+"DMake this field 'private' and encapsulate it in a 'public' property.(¼Ø›‡
+acsharpsquid:S1104,"DMake this field 'private' and encapsulate it in a 'public' property.(½Ğ±Ñ
+acsharpsquid:S1104-"DMake this field 'private' and encapsulate it in a 'public' property.(š´›ó
+acsharpsquid:S1104."DMake this field 'private' and encapsulate it in a 'public' property.(øË¶
+fcsharpsquid:S1104/"DMake this field 'private' and encapsulate it in a 'public' property.(—ù„»øÿÿÿÿ
+gcsharpsquid:S11040"DMake this field 'private' and encapsulate it in a 'public' property.(êØêc8š¸›ÌÛ0
+`csharpsquid:S11046"DMake this field 'private' and encapsulate it in a 'public' property.(°ÿ 
+fcsharpsquid:S1104<"DMake this field 'private' and encapsulate it in a 'public' property.(Ç”ç™ùÿÿÿÿ
+lcsharpsquid:S2223"OChange the visibility of 'PLAYER_RUN_ANIMATE' or make it 'const' or 'readonly'.(Àµä
+mcsharpsquid:S2223"PChange the visibility of 'PLAYER_IDLE_ANIMATE' or make it 'const' or 'readonly'.(¤¹ïİ
+mcsharpsquid:S2223"QChange the visibility of 'PLAYER_SMASH_ANIMATE' or make it 'const' or 'readonly'.(é³¥<
+tcsharpsquid:S2223"XChange the visibility of 'PLAYER_VICTORY_IDLE_ANIMATE' or make it 'const' or 'readonly'.(¤ç{
+pcsharpsquid:S2223	"SChange the visibility of 'PLAYER_GET_HIT_ANIMATE' or make it 'const' or 'readonly'.(ØŒ½¢
+rcsharpsquid:S2223
+"PChange the visibility of 'PLAYER_EXIT_ANIMATE' or make it 'const' or 'readonly'.(¯ŞÚûÿÿÿÿ
+ocsharpsquid:S2223"RChange the visibility of 'PLAYER_DEFEAT_ANIMATE' or make it 'const' or 'readonly'.(¤ÍøÓ
+zcsharpsquid:S2223"QChange the visibility of 'PLAYER_THROW_ANIMATE' or make it 'const' or 'readonly'.(å«íèüÿÿÿÿ8Ø­·ƒá0
+zcsharpsquid:S2223"QChange the visibility of 'PLAYER_SHOOT_ANIMATE' or make it 'const' or 'readonly'.(ÆÊèÙøÿÿÿÿ8´¾Ç‰á0
+vcsharpsquid:S2223"YChange the visibility of 'TRAPHUMAN_THROW_BALL_ANIMATE' or make it 'const' or 'readonly'.(©ÉëÅ
+rcsharpsquid:S2223"PChange the visibility of 'UI_HANDSLOT_ANIMATE' or make it 'const' or 'readonly'.(áİş¹şÿÿÿÿ
+vcsharpsquid:S2223"MChange the visibility of 'BONE_RUN_ANIMATE' or make it 'const' or 'readonly'.(³–ë‹ûÿÿÿÿ8³„ª£Ù0
+|csharpsquid:S2223"SChange the visibility of 'CHOO_CHOO_IDLE_ANIMATE' or make it 'const' or 'readonly'.(àíşéøÿÿÿÿ8‹ç½¤Ù0
+vcsharpsquid:S2223"RChange the visibility of 'CHOO_CHOO_RUN_ANIMATE' or make it 'const' or 'readonly'.(ÎÄ¾8ÅÃ¾¤Ù0
+~csharpsquid:S2223"UChange the visibility of 'CHOO_CHOO_ATTACK_ANIMATE' or make it 'const' or 'readonly'.(ÜÔ¦ªşÿÿÿÿ8’ÿ¾¤Ù0
+dcsharpsquid:S2223"GChange the visibility of 'PLAYER_TAG' or make it 'const' or 'readonly'.(§ùş
+kcsharpsquid:S2223"IChange the visibility of 'BOX_TRAP_TAG' or make it 'const' or 'readonly'.( â¬…ıÿÿÿÿ
+acsharpsquid:S2223"DChange the visibility of 'BOT_TAG' or make it 'const' or 'readonly'.(Ö¿Ê¹
+mcsharpsquid:S2223"KChange the visibility of 'TRAP_HUMAN_TAG' or make it 'const' or 'readonly'.(ë›éáùÿÿÿÿ
+icsharpsquid:S2223"GChange the visibility of 'GROUND_TAG' or make it 'const' or 'readonly'.(äÑ¤˜şÿÿÿÿ
+gcsharpsquid:S2223"EChange the visibility of 'TRAP_TAG' or make it 'const' or 'readonly'.(µ¼––şÿÿÿÿ
+icsharpsquid:S2223$"GChange the visibility of 'MENU_SCENE' or make it 'const' or 'readonly'.(æøú£ıÿÿÿÿ
+jcsharpsquid:S2223%"FChange the visibility of 'PLAY_MAP_' or make it 'const' or 'readonly'.(ƒùÄ8ÅÅ’¨Ø0
+mcsharpsquid:S2223+"PChange the visibility of 'AUDIO_COOL_NAMEFILE' or make it 'const' or 'readonly'.(¼Ø›‡
+rcsharpsquid:S2223,"UChange the visibility of 'AUDIO_GREATJOB_NAMEFILE_' or make it 'const' or 'readonly'.(½Ğ±Ñ
+mcsharpsquid:S2223-"PChange the visibility of 'AUDIO_HIT_NAMEFILE_' or make it 'const' or 'readonly'.(š´›ó
+qcsharpsquid:S2223."TChange the visibility of 'AUDIO_PERFECT_NAMEFILE_' or make it 'const' or 'readonly'.(øË¶
+rcsharpsquid:S2223/"PChange the visibility of 'AUDIO_WOW_NAMEFILE_' or make it 'const' or 'readonly'.(—ù„»øÿÿÿÿ
+{csharpsquid:S22230"XChange the visibility of 'AUDIO_BUTTON_CLICK_NAMEFILE' or make it 'const' or 'readonly'.(êØêc8¸½œÌÛ0
+vcsharpsquid:S22236"ZChange the visibility of 'PLAYER_COROUTINE_FUNCTION_HIT' or make it 'const' or 'readonly'.(°ÿ 
+lcsharpsquid:S2223<"JChange the visibility of 'ROCK_MATERIAL' or make it 'const' or 'readonly'.(Ç”ç™ùÿÿÿÿ

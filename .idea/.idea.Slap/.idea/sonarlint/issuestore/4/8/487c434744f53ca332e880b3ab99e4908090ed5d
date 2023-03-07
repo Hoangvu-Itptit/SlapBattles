@@ -1,0 +1,18 @@
+
+tcsharpsquid:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(®±®“üÿÿÿÿ
+Bcsharpsquid:S3903	"%Move 'Player' into a named namespace.(¼èÒª
+`csharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(§†ØF
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(€Ï±î
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(µÆ·‹ûÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¾Ü»óÿÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(…ÆˆÛ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(à‰–¼
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(÷¾”Òûÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(£ÔÚ²ıÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÏÊ…ÿÿÿÿÿ
+Vcsharpsquid:S11729"4Remove this unused method parameter 'collisionInfo'.(Şúîşÿÿÿÿ
+Icsharpsquid:S1172B",Remove this unused method parameter 'other'.(Æ¡ì½
+mcsharpsquid:S927¸"KRename parameter 'isCanDie' to 'isDie' to match the base class declaration.(ÙÎš‰şÿÿÿÿ
+gcsharpsquid:S2223"EChange the visibility of 'Instance' or make it 'const' or 'readonly'.(ÏÊ…ÿÿÿÿÿ
+ecsharpsquid:S2696"HRemove this set, which updates a 'static' field from an instance method.(Ä“±Ï
+Bcsharpsquid:S125u"Remove this commented out code.(Ú°à¬8¹ª¡Õâ0

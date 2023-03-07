@@ -1,0 +1,7 @@
+
+ocsharpsquid:S3776b"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(×œ¨
+\csharpsquid:S1854Œ">Remove this useless assignment to local variable 'localPoint'.(ªš¼”
+Icsharpsquid:S3903"'Move 'Joystick' into a named namespace.(• Úøÿÿÿÿ
+Mcsharpsquid:S3903–"*Move 'AxisOptions' into a named namespace.(¥Õ™úÿÿÿÿ
+Zcsharpsquid:S2190"=Add a way to break out of this property accessor's recursion.(Ú­¼Ô
+hcsharpsquid:S4275"KRefactor this getter so that it actually refers to the field 'axisOptions'.(Ú­¼Ô

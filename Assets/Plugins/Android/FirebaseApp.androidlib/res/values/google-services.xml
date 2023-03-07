@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">923500994816</string>
+  <string name="google_storage_bucket" translatable="false">slap-battle-king-slap-master.appspot.com</string>
+  <string name="project_id" translatable="false">slap-battle-king-slap-master</string>
+  <string name="google_api_key" translatable="false">AIzaSyCNf2DOtwfYBqg9dZKPLqE__nWU20dcD1k</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCNf2DOtwfYBqg9dZKPLqE__nWU20dcD1k</string>
+  <string name="google_app_id" translatable="false">1:923500994816:android:8623251149ff132c8813e5</string>
+  <string name="default_web_client_id" translatable="false">923500994816-nab6fg5cav83952i5rjju3eo07sh59m9.apps.googleusercontent.com</string>
+</resources>

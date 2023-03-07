@@ -1,0 +1,4 @@
+
+ocsharpsquid:S101"SRename class 'iBullet' to match pascal case naming rules, consider using 'IBullet'.(Ûﬂ‹÷
+Ccsharpsquid:S3903"&Move 'iBullet' into a named namespace.(Ûﬂ‹÷
+hcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(û∞›œ8∫®∑‡‡0

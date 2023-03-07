@@ -1,0 +1,7 @@
+
+jcsharpsquid:S101"ORename class 'iBomb' to match pascal case naming rules, consider using 'IBomb'.(éœ¦#
+@csharpsquid:S3903"$Move 'iBomb' into a named namespace.(éœ¦#
+›csharpsquid:S11861"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(Œ¤»Êøÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ƒ­›¶ýÿÿÿÿ
+Qcsharpsquid:S1066#"/Merge this if statement with the enclosing one.(â•‰ýþÿÿÿÿ
+icsharpsquid:S3267"GLoop should be simplified by calling Select(items => items.gameObject))(Á®®ßûÿÿÿÿ

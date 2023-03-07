@@ -1,0 +1,10 @@
+
+Jcsharpsquid:S3903"(Move 'MainScene' into a named namespace.(ãş™ûÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(„ÍŞÊúÿÿÿÿ
+fcsharpsquid:S1104	"DMake this field 'private' and encapsulate it in a 'public' property.(ù€à­ıÿÿÿÿ
+acsharpsquid:S1104
+"DMake this field 'private' and encapsulate it in a 'public' property.(û„ë
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(”¾ÊÆşÿÿÿÿ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(¬®Êõûÿÿÿÿ
+gcsharpsquid:S2223"EChange the visibility of 'Instance' or make it 'const' or 'readonly'.(¬®Êõûÿÿÿÿ
+rcsharpsquid:S2696"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(Ä“±Ï

@@ -1,0 +1,16 @@
+
+@csharpsquid:S3903
+"#Move 'Menu' into a named namespace.(îÊí¿
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(”À”‘øÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Ñî±
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÏáÖõúÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Öğ¿®
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ô¡»Ğÿÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÎŒì
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(Â®§Âúÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(â·Ûî
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(èúÿíıÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ì¯Í
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(²Ù¦åûÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ñ¾ÁÉ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ë¦âŒ

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923500994816",
+    "project_id": "slap-battle-king-slap-master",
+    "storage_bucket": "slap-battle-king-slap-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923500994816:android:8623251149ff132c8813e5",
+        "android_client_info": {
+          "package_name": "com.fc.p.ace.slap.battle.io.slap.kings.master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923500994816-nab6fg5cav83952i5rjju3eo07sh59m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNf2DOtwfYBqg9dZKPLqE__nWU20dcD1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923500994816-nab6fg5cav83952i5rjju3eo07sh59m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

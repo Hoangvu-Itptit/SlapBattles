@@ -1,0 +1,5 @@
+
+Fcsharpsquid:S3903"*Move 'ButtonTypes' into a named namespace.(ª ˜
+Jcsharpsquid:S3903"-Move 'PEButtonScript' into a named namespace.(òã‡–
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(“„¤‘
+—csharpsquid:S1939"z'IPointerEnterHandler' implements 'IEventSystemHandler' so 'IEventSystemHandler' can be removed from the inheritance list.(òã‡–

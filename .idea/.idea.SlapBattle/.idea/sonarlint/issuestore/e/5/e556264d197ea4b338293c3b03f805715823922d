@@ -1,0 +1,12 @@
+
+Fcsharpsquid:S3903"$Move 'Utils' into a named namespace.(–ÀÏ–ýÿÿÿÿ
+Kcsharpsquid:S3903Ž"(Move 'Vibration' into a named namespace.(Âÿ»‰ýÿÿÿÿ
+bcsharpsquid:S1104•"DMake this field 'private' and encapsulate it in a 'public' property.(¸Ð¬È
+bcsharpsquid:S1104–"DMake this field 'private' and encapsulate it in a 'public' property.(‘Ôßœ
+gcsharpsquid:S1104—"DMake this field 'private' and encapsulate it in a 'public' property.(²õû¾ÿÿÿÿÿ
+Wcsharpsquid:S3400À"9Remove this method and declare a constant for this value.(‰™•ð
+fcsharpsquid:S2223•"HChange the visibility of 'unityPlayer' or make it 'const' or 'readonly'.(¸Ð¬È
+jcsharpsquid:S2223–"LChange the visibility of 'currentActivity' or make it 'const' or 'readonly'.(‘Ôßœ
+hcsharpsquid:S2223—"EChange the visibility of 'vibrator' or make it 'const' or 'readonly'.(²õû¾ÿÿÿÿÿ
+<csharpsquid:S125œ"Remove this commented out code.(ò„†
+<csharpsquid:S125ª"Remove this commented out code.(ò„†

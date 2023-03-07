@@ -1,0 +1,12 @@
+
+ucsharpsquid:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ÉÅŒ¹şÿÿÿÿ
+ucsharpsquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ç·éµıÿÿÿÿ
+Scsharpsquid:S3903"6Move 'SlicedFilledImageEditor' into a named namespace.(Øâ¤
+Rcsharpsquid:S3903+"0Move 'SlicedFilledImage' into a named namespace.(½¶™·ùÿÿÿÿ
+—csharpsquid:S1186÷"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(èÅÑ›
+œcsharpsquid:S1186û"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(Ã…Òûÿÿÿÿ
+–csharpsquid:S1186Ñ"yAdd a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.(´Ã½i
+Mcsharpsquid:S1066á"/Merge this if statement with the enclosing one.(¤©ÚÆ
+lcsharpsquid:S927ÿ"JRename parameter 'screenPoint' to 'sp' to match the interface declaration.(Ç·éµıÿÿÿÿ
+scsharpsquid:S2696ê"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(Û¿Üë
+^csharpsquid:S1117ç"@Rename 'fillAmount' which hides the property with the same name.(æ–µ¾

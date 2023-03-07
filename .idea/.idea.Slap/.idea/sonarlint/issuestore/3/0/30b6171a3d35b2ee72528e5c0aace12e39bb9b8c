@@ -1,0 +1,12 @@
+
+tcsharpsquid:S3776)"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ñşÎÛûÿÿÿÿ
+Vcsharpsquid:S3903"9Move 'OffScreenIndicatorVarriant' into a named namespace.(Ş”¾
+<csharpsquid:S2933"Make 'targets' 'readonly'.(×µİ ıÿÿÿÿ
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÕÅµ…
+lcsharpsquid:S2223"OChange the visibility of 'TargetStateChanged' or make it 'const' or 'readonly'.(ÕÅµ…
+wcsharpsquid:S2696"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(Ğå¡ÿÿÿÿÿ
+xcsharpsquid:S2696˜"UMake the enclosing instance method 'static' or remove this set on the 'static' field.(²Ä„Éùÿÿÿÿ
+Wcsharpsquid:S2259Z":'indicatorVariant' is null on at least one execution path.(ÿšéØ
+:csharpsquid:S125G"Remove this commented out code.(ÿ·’#
+;csharpsquid:S125J"Remove this commented out code.(öÛ–¬
+@csharpsquid:S125Q"Remove this commented out code.(ˆ¸ì˜øÿÿÿÿ
